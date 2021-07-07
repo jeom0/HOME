@@ -1,18 +1,10 @@
-/* Custom Properties */
-:root {
-  --main-color: #1E90FF;
-  --main-modal-color: #00CED1;
-  --second-color: #2B2B2B;
-  --second-modal-color: rgba(43, 43, 43, .5);
-}
-
 html {
   box-sizing: border-box;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  color: var(--second-color);
-  background-color: var(--main-modal-color);
+  color: white;
+  background-color: blue;
 }
 
 *,
