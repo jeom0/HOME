@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Convierte tu sitio web a PWA
 
-You can use the [editor on GitHub](https://github.com/jeom0/HOME/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+En esta miniserie te enseño a convertir un sitio web en aplicación web progresiva (PWA).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Videos de la Miniserie: https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6
+* Códigos finales de la miniserie: https://github.com/jonmircha/youtube-pwa
+* Ejemplo funcionando en: https://jonmircha.github.io/youtube-pwa/
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mis Redes Sociales:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeom0/HOME/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* 🔔 Suscríbete al canal https://youtube.com/jonmircha?sub_confirmation=1 🤓
+* 👉 Visita mi sitio web  https://jonmircha.com/ 💻
+* 🌮 ¿Me invítas un taco? https://www.paypal.me/jonmircha
