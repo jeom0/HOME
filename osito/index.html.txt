@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Title of the document</title>
+</head>
+<body>
+
+<h1>BURRO MIERDA</h1>
+<p>Osito me encantas.</p>
+
+<img href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fgisselleliz%2Fpolar-escandalosos%2F&psig=AOvVaw0Il3cQ_U_NBfePe40gixUN&ust=1626026911814000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMiJtLaM2fECFQAAAAAdAAAAABAD">
+</body>
+</html>
